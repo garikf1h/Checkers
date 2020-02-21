@@ -1,0 +1,4 @@
+﻿  General.c
+c:\users\גרי\source\repos\checkers\checkers\general.c(96): warning C4101: 'row': unreferenced local variable
+c:\users\גרי\source\repos\checkers\checkers\general.c(96): warning C4101: 'col': unreferenced local variable
+  Checkers.vcxproj -> C:\Users\גרי\source\repos\Checkers\Debug\Checkers.exe
